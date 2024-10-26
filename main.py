@@ -94,11 +94,11 @@ pseudo_menu = f"""                                                              
 [0] Retour au Menu Principal
 """
 
-roblox_menu = f"""                                                                                         ├─ Cookie
-                                                                                         │  └─ [1] Connexion Avec Un Cookie Roblox
-                                                                                         └─ Info               
-                                                                                            ├─ [2] Info D'un Compte Roblox Avec Sont ID Roblox
-                                                                                            └─ [3] Info D'un Compte Roblox Avec Sont Nom D'utilisateur
+roblox_menu = f"""                                                                                       ├─ Cookie
+                                                                                       │  └─ [1] Connexion Avec Un Cookie Roblox
+                                                                                       └─ Info               
+                                                                                          ├─ [2] Info D'un Compte Roblox Avec Sont ID Roblox
+                                                                                          └─ [3] Info D'un Compte Roblox Avec Sont Nom D'utilisateur
 
 [0] Retour au Menu Principal
 """
